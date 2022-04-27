@@ -68,7 +68,7 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "eslint": "^4.15.0",
-    "grunt": "^0.4.5",
+    "grunt": "^1.5.2",
     "grunt-aws-s3": "^0.14.1",
     "grunt-concurrent": "^2.0.4",
     "grunt-contrib-clean": "^0.7.0",
