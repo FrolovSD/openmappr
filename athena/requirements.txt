@@ -17,7 +17,7 @@ Mako==1.0.2
 MarkupSafe==0.23
 mongokit==0.9.1.1
 networkx==1.9.1
-numpy==1.10.1
+numpy==1.21.0
 pandas==0.20.2
 psutil==4.1.0
 py==1.4.31
