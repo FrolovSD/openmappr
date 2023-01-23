@@ -91,7 +91,7 @@
     "jit-grunt": "^0.9.1",
     "mocha": "^2.5.3",
     "nodemon": "^1.8.1",
-    "supertest": "^1.1.0",
+    "supertest": "^6.3.3",
     "time-grunt": "^1.2.2"
   }
 }
